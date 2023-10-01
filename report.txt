@@ -1,0 +1,14 @@
+    Cross-Site Scripting (XSS): 
+        Validate and sanitize user inputs to prevent script injection.
+
+    SQL Injection: 
+        Use parameterized queries and consider ORM for database interactions.
+
+    Cross-Site Request Forgery (CSRF): 
+        Implement CSRF tokens and secure cookie attributes.
+
+    Session Management: 
+        Configure sessions securely and regenerate session IDs.
+
+    Hardcoded Credentials: 
+        Use secure authentication mechanisms and hash passwords.
